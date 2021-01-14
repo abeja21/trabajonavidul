@@ -1,2 +1,5 @@
-hola guapo_14/01/2021 10:53_false
-hola_14/01/2021 10:55_false
+hola guapo_14/01/2021 10:53_true
+hola_14/01/2021 10:55_true
+hola mundo_14/01/2021 12:36_true
+comprar_14/01/2021 12:39_true
+Capullo_14/01/2021 12:56_true
